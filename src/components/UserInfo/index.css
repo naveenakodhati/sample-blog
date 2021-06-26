@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.profile-image {
+  align-self: center;
+  width: 13%;
+}
+.profile-heading {
+  color: #12022f;
+  font-size: 24px;
+  align-self: center;
+  font-weight: 700;
+}
+.profile-description {
+  color: #616e7c;
+  font-weight: 700;
+  align-self: center;
+}

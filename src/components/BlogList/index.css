@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.blog-list-styling {
+  width: 100%;
+}
+.blog-styling {
+  display: flex;
+  justify-content: space-between;
+}
+.heading {
+  align-self: flex-start;
+  font-size: 22px;
+  font-weight: 700;
+  color: #12022f;
+}
+.blog-description {
+  color: #616e7c;
+  align-self: flex-end;
+}
+.description {
+  color: #616e7c;
+  font-weight: 600;
+}
